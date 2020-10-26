@@ -15,4 +15,4 @@
 *.DS_Store
 
 # Binaries
-data-logger/data-logger
+sprout-data-logger/sprout-data-logger
