@@ -2,10 +2,18 @@
 
 > A utility that can be used as a sprout HTTP target for collecting data locally.
 
+## Installation
+
+If you have `go` installed in your system, simply use:
+
+```
+go get github.com/kudzutechnologies/sprout-tools/sprout-data-logger
+```
+
 ## Usage
 
 ```
-Usage of ./data-logger:
+Usage of ./sprout-data-logger:
   -file string
     	the .csv file where to log the received data (default "data-202010261227.csv")
   -port int
